@@ -1,0 +1,52 @@
+body {
+    width: 60%;
+    margin: auto;
+    font-family: Arial, Tahoma, sans-serif;
+    background-color: lightcoral;
+}
+
+h1 {
+    color: #36454F;
+    text-align: center;
+    background-color: lightgray;
+    padding: 30px;
+}
+
+.mainlist {
+    background-color: lightgray;
+    width: 300px;
+    margin: auto;
+    padding: 25px;
+}
+
+.mainlist li {
+    border: 3px solid #36454F;
+    margin: 50px 10px;
+    padding: 5px;
+}
+
+.liststyleposition {
+    list-style-position: inside;
+}
+
+.picture {
+    display: block;
+    margin: auto;
+}
+
+div {
+    padding: 10px;
+    background-color: lightgray;
+}
+
+button {
+    background-color: lightgray;
+    margin-top: 5px;
+}
+
+#source {
+    font-weight: 800;
+    background-color: lightgray;
+    display: inline-block;
+    padding: 6px 3px;
+}
